@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file alias="IconGreen.svg">Resources/IconGreen.svg</file>
+        <file alias="IconYellow.svg">Resources/IconYellow.svg</file>
+        <file alias="IconRed.svg">Resources/IconRed.svg</file>
+        <file alias="NoImage.jpg">Resources/NoImage.jpg</file>
+        <file alias="SourceSansPro.ttf">Resources/SourceSansPro.ttf</file>
+        <file alias="FontIcons.ttf">Resources/FontIcons.ttf</file>
+    </qresource>
+    <qresource prefix="/Qml">
+        <file alias="CircularImage.qml">Gui/Qml/CircularImage.qml</file>
+        <file alias="Settings.qml">Gui/Qml/Settings.qml</file>
+        <file alias="SettingsLocalUser.qml">Gui/Qml/SettingsLocalUser.qml</file>
+        <file alias="SettingsReceptionPreferences.qml">Gui/Qml/SettingsReceptionPreferences.qml</file>
+        <file alias="PeersSelector.qml">Gui/Qml/PeersSelector.qml</file>
+        <file alias="Transfers.qml">Gui/Qml/Transfers.qml</file>
+        <file alias="TransferRequest.qml">Gui/Qml/TransferRequest.qml</file>
+        <file alias="TransferResponse.qml">Gui/Qml/TransferResponse.qml</file>
+        <file alias="DuplicatedFile.qml">Gui/Qml/DuplicatedFile.qml</file>
+        <file alias="About.qml">Gui/Qml/About.qml</file>
+    </qresource>
+</RCC>

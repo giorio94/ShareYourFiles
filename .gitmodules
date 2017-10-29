@@ -1,0 +1,3 @@
+[submodule "CuteLogger"]
+	path = CuteLogger
+	url = https://github.com/dept2/CuteLogger.git
